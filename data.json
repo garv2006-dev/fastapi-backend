@@ -1,0 +1,37 @@
+[
+  {
+    "student_id": 1,
+    "name": "Ava Johnson",
+    "age": 16,
+    "grade": "10",
+    "course": "Mathematics"
+  },
+  {
+    "student_id": 2,
+    "name": "Liam Smith",
+    "age": 15,
+    "grade": "9",
+    "course": "Science"
+  },
+  {
+    "student_id": 3,
+    "name": "Noah Williams",
+    "age": 17,
+    "grade": "11",
+    "course": "History"
+  },
+  {
+    "student_id": 4,
+    "name": "Emma Brown",
+    "age": 14,
+    "grade": "8",
+    "course": "English"
+  },
+  {
+    "student_id": 5,
+    "name": "Olivia Davis",
+    "age": 16,
+    "grade": "10",
+    "course": "Mathematics"
+  }
+]
